@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sherwin Manangan -- Dev Trainee -- @zen0nia
 
 # THANKS
 
